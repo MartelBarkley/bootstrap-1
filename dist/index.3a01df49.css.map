@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;AAIA","sources":["style.css"],"sourcesContent":[".jumbotron {\r\n    background-image: url(road-ahead-LvhKyLbnJas-unsplash.jpg);\r\n}\r\n\r\n.display-4 {\r\n    color: white;\r\n}\r\n\r\n.lead {\r\n    color:white\r\n}"],"names":[],"version":3,"file":"index.3a01df49.css.map","sourceRoot":"/__parcel_source_root/"}
